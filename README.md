@@ -1,1 +1,2 @@
 # Personalized-Dashboard
+I  developed a Personalized Dashboard is an innovative web-based interface that brings together various essential tools and widgets into a single, customizable space, allowing users to manage and organize their daily activities efficiently. Developed using HTML, CSS, and JavaScript, this type of dashboard offers users a seamless experience, integrating key features such as a clock, to-do list, and calendar widgets—all of which are designed to enhance productivity and streamline task management.
